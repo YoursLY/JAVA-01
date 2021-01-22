@@ -1,0 +1,8 @@
+
+[
+squid:S106("9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8î’ÔËò.
+Hsquid:S00108)")Either remove or fill this block of code.(Úîø›8§ÅÒËò.
+fsquid:S2259$"CA "NullPointerException" could be thrown; "value" is nullable here.(Ïªö°ıÿÿÿÿ8§ÅÒËò.
+Isquid:S1172 "&Remove these unused method parameters.(®ùÚşÿÿÿÿ8åÅËò.
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶øØ²
+`squid:UselessImportCheck"5Remove this unused import 'java.util.logging.Logger'.(ƒ¥óš8‹ÖØËò.
